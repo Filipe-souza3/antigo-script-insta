@@ -191,7 +191,7 @@ def conta_seguir(email,senha):
 #seguir alguem
 #conta_seguir("meuinsta.com","senha")
 
-conta_criar()
+conta_criar_seguir()
     
 
 
